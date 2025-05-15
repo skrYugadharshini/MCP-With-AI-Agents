@@ -1,0 +1,1 @@
+This project implements a domain-specific AI Assistant using LangChain, integrated with Groq LLMs and MCP (Modular Component Platform) servers and tools for efficient processing and orchestration.
