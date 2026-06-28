@@ -15,3 +15,5 @@ Scalable and easy to extend.
 🧠 MCP-With-AI-Agents
 MCP-With-AI-Agents is a basic multi-agent system where intelligent agents collaborate to solve a Multi-Constraint Problem (MCP). The system demonstrates how AI agents can interact, share information, and make decisions to satisfy multiple constraints in a distributed or centralized environment.
 
+MCP-With-AI-Agents is a basic multi-agent system where intelligent agents collaborate to solve a Multi-Constraint Problem (MCP). The system demonstrates how AI agents can interact, share information, and make decisions to satisfy multiple constraints in a distributed or centralized environment.
+
